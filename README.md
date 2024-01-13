@@ -18,8 +18,8 @@ Visit [https://nodejs.org/en/download](https://nodejs.org/en/download) to downlo
 
 # Run
 
-`pm2 start index.js --name watcher`
+`npm start`
 
 # Stop
 
-`pm2 stop watcher`
+`npm stop`
